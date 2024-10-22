@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.pytest_cache/
+uploaded_invoices/
+.coverage/
+.coverage*
+.env
+.DS_Store
+
